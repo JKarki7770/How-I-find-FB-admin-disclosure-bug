@@ -1,6 +1,6 @@
 # How-I-find-FB-admin-disclosure-bug
 
-Hellow guys , How are you? I hope you all are fine.It’s me Janak Karki So today I am going to share the story of my 2nd valid bug fromfacebook that I found. I was searching for bugs in facebook for about 2 weeks but I didn’t find any :( and yeah got some informatives and duplicate too. I was on my vacation so there was nothing for me to do. So everyday I use(d) to search for bugs in facebook One day I went to fb group and saw the option of room in the group.(This is a simple bug)
+Hellow guys, It’s me Janak Karki So today I am going to share the story of my 2nd valid bug fromfacebook that I found. I was searching for bugs in facebook for about 2 weeks but I didn’t find any :( and yeah got some informatives and duplicate too. I was on my vacation so there was nothing for me to do. So everyday I use(d) to search for bugs in facebook One day I went to fb group and saw the option of room in the group.(This is a simple bug)
 
 What was the bug and How I reproduced it?
 
